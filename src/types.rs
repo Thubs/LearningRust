@@ -20,5 +20,5 @@ pub fn run() {
     let face = '\u{1F600}';
 
     println!("{:?}", (a1, face));
-    println!("{:?}", (is_active, _x, _y, _z, is_greater));
+    println!("{:?}", (is_active, _x, _y, _z, is_greater, a1, face));
 }
