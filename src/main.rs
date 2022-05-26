@@ -1,8 +1,9 @@
 #![allow(non_snake_case)]
 
 // mod print;
-mod vars;
+//mod vars;
+mod types;
 
 fn main() {
-    vars::run();
+    types::run();
 }
