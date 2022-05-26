@@ -13,4 +13,13 @@ pub fn run() {
             object="the lazy dog",
             subject="the quick brown fox",
             verb="jumps over");
+
+    // Placeholder traits
+    println!("{} of {:b} people know binary, the other half doesn't", 1, 2);
+
+    // Placeholder for debug trait
+    println!("{:?}", (12, true, "hello"));
+
+    // Basic math
+    println!("10 x 10 = {}", 10 / 10);
 }
