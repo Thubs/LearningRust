@@ -4,10 +4,10 @@
 // mod vars;
 // mod types;
 // mod strings;
-mod tuples;
-mod arrays;
+// mod tuples;
+// mod arrays;
+mod vectors;
 
 fn main() {
-    tuples::run();
-    arrays::run()
+    vectors::run();
 }
